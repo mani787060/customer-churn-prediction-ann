@@ -16,7 +16,7 @@ To build a deep learning model that accurately predicts whether a customer will 
 ###  Target Variable
 - **Churn**: Indicates whether a customer has left the service.
 
-### 🔑 Key Features
+### Key Features
 - Gender  
 - Senior Citizen  
 - Tenure  
@@ -27,7 +27,7 @@ To build a deep learning model that accurately predicts whether a customer will 
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 1. Data Loading and Inspection  
 2. Data Cleaning and Encoding  
 3. Feature Scaling  
